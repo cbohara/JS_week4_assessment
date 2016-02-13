@@ -84,13 +84,3 @@ filterBy(car1, isSubaru);
 // if the car object does not pass the predicate, the result array will be empty
 filterBy(car2, isSubaru);
 
-/*
-
-Extra Credit:
-
-Expand filterBy's functionality to work with arrays AND objects.
-
-Build a test case of your own to make sure it works.
-
-*/
-
